@@ -46,6 +46,7 @@
 <p align="left">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"> </code>
+ <code> <img height="50" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://logodix.com/logo/2106571.png"> </code>
   <code> <img height="50" src="https://logodix.com/logo/541945.png"> </code>
   <code> <img height="50" src="https://www.logolynx.com/images/logolynx/s_e3/e3e05f6953753f38d1ae12c858831455.jpeg"> </code>
