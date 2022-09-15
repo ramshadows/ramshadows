@@ -1,12 +1,13 @@
 ### hey there
-
+##Twitter Handle
+---
 <a href="https://twitter.com/abudhabi">
   <img align="left" alt="Amos Rafael | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br />
 
-hi, I am Amos Rafael, a passionate self-taught Goland developer and a Systems Support Engineer from Kenya. I take great care in the experience, architecture, and code quality of the things I build.
+hi, I am Amos Rafael, a passionate self-taught Golang developer and a Systems Support Engineer from Kenya. I take great care in the experience, architecture, and code quality of the things I build.
 
 **languages and tools:**  
 
