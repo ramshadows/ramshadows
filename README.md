@@ -50,6 +50,7 @@
   <code> <img height="50" src="https://logodix.com/logo/541945.png"> </code>
   <code> <img height="50" src="https://www.logolynx.com/images/logolynx/s_e3/e3e05f6953753f38d1ae12c858831455.jpeg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"> </code>
   <code> <img height="50" src="https://logodix.com/logo/729226.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
