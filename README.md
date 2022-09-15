@@ -6,7 +6,7 @@
 
  <p align="center">
   <img src="https://img.shields.io/badge/Focus-Golang%20Backend-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20Support%2Engineer-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20Support%20Engineer-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Kenya-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Swahili-brightgreen" />
 </p>
