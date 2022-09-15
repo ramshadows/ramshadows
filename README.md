@@ -14,7 +14,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amos Rafael </h1>
 <h3 align="center">Golang Developer | Systems Support Engineer | Data Analyst </h3>
 <p align="center">
- https://cdn-icons-png.flaticon.com/128/2504/2504923.png
 <a href="https://www.linkedin.com/rafael-mwenda-88832358"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="Amos Rafael" height="30" width="40" /></a>  
  <a href = "https://www.twitter.com/abuldhabi"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" height="30" width="40" /></a>
 </p>
