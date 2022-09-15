@@ -5,16 +5,15 @@
 
 
  <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Golang%20Backend-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Systems%20Support%20Engineer-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Golang%20Backend%20%26%20Systems%20Support%20Engineer-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Kenya-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Swahili-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Amos Rafael </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rafael </h1>
 <h3 align="center">Golang Developer | Systems Support Engineer | Data Analyst </h3>
 <p align="center">
-<a href="https://www.linkedin.com/rafael-mwenda-88832358"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="Amos Rafael" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/rafael-mwenda-88832358"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="Rafael" height="30" width="40" /></a>  
  <a href = "https://www.twitter.com/abuldhabi"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" height="30" width="40" /></a>
 </p>
 </p>
@@ -22,7 +21,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Amos Rafael 
+    Hello, I am Rafael 
     <b>a passionate self-learner, </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> a <b>Golang Developer and a Systems Support Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Microservices, </b><b>Golang, </b><b>gRPC, </b> and always looking to improve myself 
   </em> 
