@@ -36,8 +36,8 @@
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a ***ATM service API***<br>
-✔ I’m currently learning **AWS Cloud***  🥰<br>
-✔ I’m looking to collaborate with any **Open - Source Golang projects**<br>
+✔ I’m currently learning ***AWS Cloud***  🥰<br>
+✔ I’m looking to collaborate with any ***Golang Developer***<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
@@ -59,7 +59,7 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramshadows&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Ram" /></p>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ramshadows&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ram" width="410" /></p>
 <br><br><br><br><br>
 
