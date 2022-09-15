@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://cdn-icons-mp4.flaticon.com/512/6172/6172518.mp4"/>
+ <img src="https://cdn5.vectorstock.com/i/thumb-large/71/09/geek-face-logo-vector-9007109.jpg"/>
 </p>
 <br>
 
