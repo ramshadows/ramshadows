@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.shutterstock.com/image-vector/young-freelancer-programmer-coding-laptop-600w-1464233834.jpg"/>
+ <img src="https://cdn-icons-mp4.flaticon.com/512/6172/6172518.mp4"/>
 </p>
 <br>
 
@@ -50,7 +50,6 @@
   <code> <img height="50" src="https://https://logodix.com/logo/541945.png"> </code>
   <code> <img height="50" src="https://www.logolynx.com/images/logolynx/s_e3/e3e05f6953753f38d1ae12c858831455.jpeg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-   <code> <img height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1023%2F1*du7p50wS_fIsaC_lR18qsg.png&f=1&nofb=1"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
@@ -59,8 +58,8 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ramshadows&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramshadows&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ramshadows&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ram" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
