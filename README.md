@@ -60,7 +60,7 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ramshadows&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ram" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramshadows&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ram" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
