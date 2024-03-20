@@ -11,7 +11,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rafael </h1>
-<h3 align="center">Golang Developer | Systems Support Engineer | Data Analyst </h3>
+<h3 align="center">Aspiring SRE & DevOps Engineer | AWS Certified | Terraform | Ansible | Docker | Kubernetes | Python & Bash Scripting</h3>
 <p align="center">
 <a href="https://www.linkedin.com/rafael-mwenda-88832358"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="Rafael" height="30" width="40" /></a>  
  <a href = "https://www.twitter.com/abuldhabi"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" height="30" width="40" /></a>
@@ -22,8 +22,8 @@
 <p align="center">
   <em>
     Hello, I am Rafael 
-    <b>a passionate self-learner, </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> a <b>Golang Developer and a Systems Support Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Microservices, </b><b>Golang, </b><b>gRPC, </b> and always looking to improve myself 
+    <b>a passionate self-learner, </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> a <b>Aspiring SRE|Cloud|DevOps Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>Obsessed</b>
+    with <b>Cloud Computing, </b><b>Golang, </b><b>gRPC, </b> and always looking to improve myself 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Tell me and I forget. Teach me and I remember. Involve me and I learn.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
