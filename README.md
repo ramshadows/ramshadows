@@ -22,7 +22,7 @@
 <p align="center">
   <em>
     Hello, I am Rafael 
-    <b>a passionate self-learner, </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> a <b>Aspiring SRE|Cloud|DevOps Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>Obsessed</b>
+    <b>a passionate self-learner, </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><b>Aspiring SRE|Cloud|DevOps Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>Obsessed</b>
     with <b>Cloud Computing, </b><b>Golang, </b><b>gRPC, </b> and always looking to improve myself 
   </em> 
   <br>
