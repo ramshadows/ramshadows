@@ -5,7 +5,7 @@
 
 
  <p align="center">
-  <img src="https://img.shields.io/badge/Focus-SRE|%20Cloud|%20%20%26%20DevOps%20Engineer|%20Golang%20Backend-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-SRE|%20Cloud|%20DevOps%20Engineer%20|Golang%20Backend-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Kenya-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Swahili-brightgreen" />
 </p>
